@@ -20,4 +20,4 @@ Proje HTML, CSS ve JavaScript kullanılarak geliştirilmiştir. Basit bir arayü
 
 1. Bu projeyi indir veya klonla:
    ```bash
-   git clone https://github.com/kullaniciadi/guessing_game.git
+   git clone https://github.com/eyuphan-dev/guessing_game.git
